@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, Fragment } from 'react';
 
 import api from '~/services/api';
 import DailyChapters from '~/components/DailyChapters';
@@ -20,11 +20,11 @@ export default function Episodios() {
     <Container>
       <ChaptersList>
         {chapters &&
-          chapters.map((dailyChapters, index) => (
-            <>
-              <Title key={index + 100}>{dailyChapters.title}</Title>
-              <DailyChapters key={index} dailyChapters={dailyChapters} />
-            </>
+          chapters.map(dailyChapters => (
+            <Fragment key={dailyChapters.id}>
+              <Title>{dailyChapters.title}</Title>
+              <DailyChapters dailyChapters={dailyChapters} />
+            </Fragment>
           ))}
       </ChaptersList>
     </Container>
