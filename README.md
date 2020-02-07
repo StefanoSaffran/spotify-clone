@@ -1,5 +1,5 @@
 <h1 align="center">
-    Spotify Clone
+    <img src="assets/logo.png" style="width: 450px;"/>
 </h1>
 
 ## :rocket: Built with
@@ -86,10 +86,11 @@ Great, the project is open source and any contribution is welcome.
 
 This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/spotify-clone/blob/master/LICENSE) for more information
 
-Made with :coffee: and ♥ by Stefano Saffran.
 
 ## :mailbox_with_mail: Get in touch!
 
 [LinkedIn](https://www.linkedin.com/in/stefanosaffran/) | [Website](https://stefanosaffran.com)
+
+Made with :coffee: and ♥ by Stefano Saffran.
 
 
