@@ -29,10 +29,14 @@ This project was developed with the following technologies:
 <br/>
 
 <p align="center">
-<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581086251/xwxvfeieysejqux0edxr.gif">
-<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085696/sengxslrzmfnfqxrs40i.gif">
-<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085691/g8pfqwbylauz9wsszzmo.gif">
-<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085702/ffed1eyfq7hotz21cnno.gif">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581086251/xwxvfeieysejqux0edxr.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085696/sengxslrzmfnfqxrs40i.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085702/ffed1eyfq7hotz21cnno.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085691/g8pfqwbylauz9wsszzmo.gif" height="320">
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581086251/xwxvfeieysejqux0edxr.gif" height="320">
 </p>
 
 ## :information_source: How to run the application locally
