@@ -19,20 +19,20 @@ This project was developed with the following technologies:
 
 ---
 <p align="center">
-  <img src=".github/spotify_img_01.png" height="250">
-  <img src=".github/spotify_img_02.png" height="250">
-  <img src=".github/spotify_img_03.png" height="250">
-  <img src=".github/spotify_img_04.png" height="250">
-  <img src=".github/spotify_img_05.png" height="250">
-  <img src=".github/spotify_img_06.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/nxjoizolo5dxjkzrlwja.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085669/qahzcvew7zwqxviii3q0.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/wo714hrmjxdbbwhwxnug.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/qi64z7z8qazfyu3vhpup.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/ekypbzlbr2qygi10eo0o.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/tfmkvfnlzjplyhsiq2um.png" height="250">
 </p>
 <br/>
 
 <p align="center">
-<img height="320"  src=".github/spotify_gif_01.gif">
-<img height="320"  src=".github/spotify_gif_02.gif">
-<img height="320"  src=".github/spotify_gif_03.gif">
-<img height="320"  src=".github/spotify_gif_04.gif">
+<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581086251/xwxvfeieysejqux0edxr.gif">
+<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085696/sengxslrzmfnfqxrs40i.gif">
+<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085691/g8pfqwbylauz9wsszzmo.gif">
+<img height="320"  src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085702/ffed1eyfq7hotz21cnno.gif">
 </p>
 
 ## :information_source: How to run the application locally
