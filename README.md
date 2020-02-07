@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img src="assets/logo.png" style="width: 300px;"/>
-</h1>
+<p align="center">
+    <img src="assets/logo.png" width="300"/>
+</p>
 
 ## :rocket: Built with
 
