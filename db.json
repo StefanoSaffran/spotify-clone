@@ -1,0 +1,345 @@
+{
+  "profile": {
+    "image": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png",
+    "name": "Stefano Saffran"
+  },
+  "spotifyMainList": [
+    {
+      "title": "Tocadas recentemente",
+      "itens": [
+        {
+          "image": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+          "subtitle": {
+            "title": "Syntax - Tasty Web Development Treats",
+            "description": "Wes Bos and Scott Tolinski"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/6767167b89c88dab39aa8ae8690ddb1df80011fc",
+          "subtitle": {
+            "title": "React Round Up",
+            "description": "Devchat.tv"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+          "subtitle": {
+            "title": "Podcast FalaDev",
+            "description": "Rocketseat"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/64752754dcbfc611c73161f97e17e6b2bafd1605",
+          "subtitle": {
+            "title": "React Podcast",
+            "description": "Michael Chan"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/43c9fec68da45cef0c610778dc17ecbba8b63629",
+          "subtitle": {
+            "title": "Hipsters Ponto Tech",
+            "description": "Alura"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/be893e7b1a65d9a95e3ca2343667acebed3ce890",
+          "subtitle": {
+            "title": "React Native Radio",
+            "description": "Devchat.tv"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Seus podcasts mais escutados",
+      "itens": [
+        {
+          "image": "https://daily-mix.scdn.co/covers/gift_sets/YDP/pt-br.jpg",
+          "subtitle": {
+            "title": "Seus Podcasts do Dia",
+            "description": "Spotify"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/6767167b89c88dab39aa8ae8690ddb1df80011fc",
+          "subtitle": {
+            "title": "React Round Up",
+            "description": "Devchat.tv"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+          "subtitle": {
+            "title": "Podcast FalaDev",
+            "description": "Rocketseat"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/64752754dcbfc611c73161f97e17e6b2bafd1605",
+          "subtitle": {
+            "title": "React Podcast",
+            "description": "Michael Chan"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/e1f62ab70757f1849d7f71457e4009f920cb0ae6",
+          "subtitle": {
+            "title": "Chats with Kent C. Dodds",
+            "description": "Kent C. Dodds"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Novos episódios de podcasts",
+      "itens": [
+        {
+          "image": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+          "subtitle": {
+            "title": "Syntax - Tasty Web De...",
+            "description": "Hoje•55min"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+          "subtitle": {
+            "title": "FalaDev #12 - Boas práticas no front-end,...",
+            "description": "Hoje•32min"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/8f403d6f7c4e733f9bd5cc948b675f09fcdea3b8",
+          "subtitle": {
+            "title": "Domino's Pizza open 850 stores in Italy | Le...",
+            "description": "Hoje•32min"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Não sai dos seus ouvidos",
+      "itens": [
+        {
+          "image": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+          "subtitle": {
+            "title": "Syntax - Tasty Web Development Treats",
+            "description": "Wes Bos and Scott Tolinski"
+          }
+        },
+        {
+          "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+          "subtitle": {
+            "title": "Podcast FalaDev",
+            "description": "Rocketseat"
+          }
+        }
+      ]
+    }
+  ],
+  "sessions": [
+    {
+      "title": "Podcasts",
+      "image": "https://t.scdn.co/images/ad4d5c268a214f78920517e76e6ed107.jpeg",
+      "background" : "rgb(245, 155, 35);"
+    },
+    {
+      "title": "Feito para você",
+      "image": "https://t.scdn.co/images/68433b0ee5b5465b8e926c42b84cbcdb.jpeg",
+      "background" : "rgb(160, 195, 210);"
+    },
+    {
+      "title": "Paradas",
+      "image": "https://t.scdn.co/images/4b7472015a274eadbc00119f5141e548.jpeg",
+      "background" : "rgb(75, 145, 125);"
+    },
+    {
+      "title": "Novos lançamentos",
+      "image": "https://t.scdn.co/images/acc7b5d7b1264d0593ec05c020d0a689.jpeg",
+      "background" : "rgb(161, 190, 230);"
+    },
+    {
+      "title": "Descobrir",
+      "image": "https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg",
+      "background" : "rgb(180, 155, 200);"
+    },
+    {
+      "title": "Pop",
+      "image": "https://t.scdn.co/images/d355f48a90b64c25b6e004179a596e51.jpeg",
+      "background" : "rgb(195, 240, 200);"
+    },
+    {
+      "title": "Seu astral",
+      "image": "https://t.scdn.co/images/baf681efc57145e180589e027496b101.jpeg",
+      "background" : "rgb(80, 155, 245);"
+    },
+    {
+      "title": "Hip Hop",
+      "image": "https://t.scdn.co/images/9676cef74ec147a48607c737c4f93943.jpeg",
+      "background" : "rgb(245, 155, 35);"
+    },
+    {
+      "title": "Rock",
+      "image": "https://t.scdn.co/images/31c85ae6fec34a16927ef28a7a88e97b.jpeg",
+      "background" : "rgb(235, 30,50);"
+    },
+    {
+      "title": "Relax",
+      "image": "https://t.scdn.co/images/2470fe22d03a4375a9501dce8cfb2b8c.jpeg",
+      "background" : "rgb(160, 195, 210);"
+    },
+    {
+      "title": "Eletrônica/ Dance",
+      "image": "https://t.scdn.co/images/3c419cbc46e5430795e056298c34702d.jpeg",
+      "background" : "rgb(155, 240, 225);"
+    },
+    {
+      "title": "Wellness",
+      "image": "https://pl.scdn.co/images/pl/default/a2563c96f096745764ac114485210cef55f8a734",
+      "background" : "rgb(180, 155, 200);"
+    }
+  ],
+  "programs": [
+    {
+      "image": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+      "title": {
+        "name": "Syntax - Tasty Web Development Treats",
+        "description": "Wes Bos and Scott Tolinski"
+      },
+      "updated_at": "Atualizado hoje"
+    },
+    {
+      "image": "https://i.scdn.co/image/6767167b89c88dab39aa8ae8690ddb1df80011fc",
+      "title": {
+        "name": "React Round Up",
+        "description": "Devchat.tv"
+      },
+      "updated_at": "Atualizado hoje"
+    },
+    {
+      "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+      "title": {
+        "name": "Podcast FalaDev",
+        "description": "Rocketseat"
+      },
+      "updated_at": "Atualizado hoje"
+    },
+    {
+      "image": "https://i.scdn.co/image/64752754dcbfc611c73161f97e17e6b2bafd1605",
+      "title": {
+        "name": "React Podcast",
+        "description": "Michael Chan"
+      },
+      "updated_at": "Atualizado hoje"
+    },
+    {
+      "image": "https://i.scdn.co/image/be893e7b1a65d9a95e3ca2343667acebed3ce890",
+      "title": {
+        "name": "React Native Radio",
+        "description": "Devchat.tv"
+      },
+      "updated_at": "Atualizado ontem"
+    },
+    {
+      "image": "https://i.scdn.co/image/e1f62ab70757f1849d7f71457e4009f920cb0ae6",
+      "title": {
+        "name": "Chats with Kent C. Dodds",
+        "description": "Kent C. Dodds"
+      },
+      "updated_at": "Atualizado ontem"
+    },
+    {
+      "image": "https://i.scdn.co/image/8f403d6f7c4e733f9bd5cc948b675f09fcdea3b8",
+      "title": {
+        "name": "Plain English | Learn English on Sp..",
+        "description": "Jeff B. | PlainEnglish.com"
+      },
+      "updated_at": "Atualizado ontem"
+    },
+    {
+      "image": "https://i.scdn.co/image/43c9fec68da45cef0c610778dc17ecbba8b63629",
+      "title": {
+        "name": "Hipsters Ponto Tech",
+        "description": "Alura"
+      },
+      "updated_at": "Atualizado ontem"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Hoje",
+      "info": [
+        {
+          "image": "https://i.scdn.co/image/6767167b89c88dab39aa8ae8690ddb1df80011fc",
+          "name": "RRU 098: Accessibility Made Easy with Brittany Feenstra",
+          "owner": "React Round Up",
+          "description": "Brittany is a software engineer for Formidable Labs. She's a team lead for some client work and likes to poke around in their open-source stuff in her free time",
+          "time": "45min"
+        },
+        {
+          "image": "https://i.scdn.co/image/be893e7b1a65d9a95e3ca2343667acebed3ce890",
+          "name": "RNR 153: Getting Down with Native Code",
+          "owner": "React Native Radio",
+          "description": "In this episode of React Native Radio the panel dives deep into native code. They discuss how it works and shares their experiences using it.",
+          "time": "56min"
+        },
+        {
+          "image": "https://i.scdn.co/image/be893e7b1a65d9a95e3ca2343667acebed3ce890",
+          "name": "Algoritmos e estrutura de dados – Hipsters #186",
+          "owner": "Hipsters Ponto Tech",
+          "description": "Será que você realmente precisa saber algoritmos e estruturas de dados para trabalhar com programação?",
+          "time": "1h 1min"
+        }
+      ]
+    },
+    {
+      "title": "Ontem",
+      "info": [
+        {
+          "image": "https://i.scdn.co/image/28df6337d6538a093fa1092a979a1f0f95f70992",
+          "name": "Hasty Treat - Non-Glamorous Skills You Should Have",
+          "owner": "Syntax - Tasty Web Development Treats",
+          "description": "In this Hasty Treat, Scott and Wes talk about the non-glamorous skills that will improve your life as a developer! Prismic - Sponsor",
+          "time": "24min"
+        },
+        {
+          "image": "https://i.scdn.co/image/8f403d6f7c4e733f9bd5cc948b675f09fcdea3b8",
+          "name": "Coronavirus researchers racing to develop vaccine | Learn the English phrase 'to put something in perspective'",
+          "owner": "Plain English | Learn English on Spotify",
+          "description": "The latest coronavirus that broke out in the Chinese city of Wuhan has already infected hundreds, killed dozens, and spread across the world.",
+          "time": "22min"
+        },
+        {
+          "image": "https://i.scdn.co/image/9b225b3d47d9f0a152309ae9ac7050b1370fff4d",
+          "name": "FalaDev #11 - Técnicas de estudo e aprendizado tradicional",
+          "owner": "Podcast FalaDev",
+          "description": "Três programadores conversam sobre que fazer para ser mais produtivo e se é possível aprender fora da faculdade.",
+          "time": "43min"
+        }
+      ]
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "free": "Anúncios entre as músicas",
+      "premium": "Música sem propaganda"
+    },
+    {
+      "id": 2,
+      "free": "Pule até 6 faixas por hora",
+      "premium": "Pule quantas faixas quiser"
+    },
+    {
+      "id": 3,
+      "free": "Ouça em ordem aleatória",
+      "premium": "Escute qualquer música"
+    },
+    {
+      "id": 4,
+      "free": "Som normal",
+      "premium": "Qualidade de áudio extremamente boa"
+    }
+
+  ]
+}
