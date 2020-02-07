@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="assets/logo.png" style="width: 450px;"/>
+    <img src="assets/logo.png" style="width: 300px;"/>
 </h1>
 
 ## :rocket: Built with
