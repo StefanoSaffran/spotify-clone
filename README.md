@@ -12,10 +12,28 @@ This project was developed with the following technologies:
 -  [Axios](https://github.com/axios/axios)
 -  [Json Server](https://github.com/typicode/json-server)
 -  [React Navigation](https://reactnavigation.org/)
--  [react Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+-  [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
 -  [ESLint](https://eslint.org/)
 -  [Prettier](https://prettier.io/)
 -  [VS Code](https://code.visualstudio.com/)
+
+---
+<p align="center">
+  <img src=".github/spotify_img_01.png" height="250">
+  <img src=".github/spotify_img_02.png" height="250">
+  <img src=".github/spotify_img_03.png" height="250">
+  <img src=".github/spotify_img_04.png" height="250">
+  <img src=".github/spotify_img_05.png" height="250">
+  <img src=".github/spotify_img_06.png" height="250">
+</p>
+<br/>
+
+<p align="center">
+<img height="320"  src=".github/spotify_gif_01.gif">
+<img height="320"  src=".github/spotify_gif_02.gif">
+<img height="320"  src=".github/spotify_gif_03.gif">
+<img height="320"  src=".github/spotify_gif_04.gif">
+</p>
 
 ## :information_source: How to run the application locally
 ### Requirements
