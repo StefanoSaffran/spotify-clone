@@ -21,7 +21,7 @@ This project was developed with the following technologies:
 ### Requirements
 To run the app, you will need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v12.13.1 or higher and [Yarn](https://yarnpkg.com/)
 
-I Application was develop using Expo. Expo is a free and open source toolchain built around React Native to facilitate the process of running and testing applications. [Click here](https://expo.io/learn) to get start with Expo.
+The Application was develop using Expo. It is a free and open source toolchain built around React Native to facilitate the process of running and testing applications. [Click here](https://expo.io/learn) to get start with Expo.
 
 Now clone the repository and install the dependencies.
 ```bash
@@ -31,7 +31,7 @@ git clone https://github.com/StefanoSaffran/spotify-clone.git
 # go into the project folder
 cd spotify-clone
 
-#install the backend dependencies
+#install the dependencies
 yarn
 
 ```
@@ -73,19 +73,23 @@ Great, the project is open source and any contribution is welcome.
 5. Push the branch created earlier: git push origin myWonderfulFeature
 6. Open a pull request here: https://github.com/StefanoSaffran/spotify-clone/pulls
 
-## TODO
+---
+
+### TODO
 
 - [ ] Animated Player
 - [ ] Profile Page
 
 ---
 
-Made with :coffee: and ♥ by Stefano Saffran
+## :page_facing_up: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/spotify-clone/blob/master/LICENSE) for more information
+
+Made with :coffee: and ♥ by Stefano Saffran.
 
 ## :mailbox_with_mail: Get in touch!
 
 [LinkedIn](https://www.linkedin.com/in/stefanosaffran/) | [Website](https://stefanosaffran.com)
 
-## :page_facing_up: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/spotify-clone/blob/master/LICENSE) for more information
