@@ -78,36 +78,22 @@ Expo will open a page in your browser, scan the QRcode on the page and wait for 
 
 > The Application was developed and tested on Iphone 6s
 
-### Contributing
-
-#### Want to contribute?
-Great, the project is open source and any contribution is welcome.
-
-#### How ?
-1. Fork the [project](https://github.com/StefanoSaffran/spotify-clone)
-2. Create a branch for your contribution. Example: git checkout -b myWonderfulFeature
-3. Add your changes: git add.
-4. Commit your changes: git commit -m 'Adding my wonderful feature'
-5. Push the branch created earlier: git push origin myWonderfulFeature
-6. Open a pull request here: https://github.com/StefanoSaffran/spotify-clone/pulls
-
 ---
 
 ### TODO
 
-- [ ] Animated Player
+- [ ] Animated music player
 - [ ] Profile Page
-
----
 
 ## :page_facing_up: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/spotify-clone/blob/master/LICENSE) for more information
 
-
 ## :mailbox_with_mail: Get in touch!
 
 [LinkedIn](https://www.linkedin.com/in/stefanosaffran/) | [Website](https://stefanosaffran.com)
+
+---
 
 Made with :coffee: and ♥ by Stefano Saffran.
 
