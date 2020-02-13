@@ -17,22 +17,28 @@ This project was developed with the following technologies:
 -  [Prettier](https://prettier.io/)
 -  [VS Code](https://code.visualstudio.com/)
 
----
+## :rocket: Images/gifs
+
 <p align="center">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/nxjoizolo5dxjkzrlwja.png" height="250">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085669/qahzcvew7zwqxviii3q0.png" height="250">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/wo714hrmjxdbbwhwxnug.png" height="250">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/qi64z7z8qazfyu3vhpup.png" height="250">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/ekypbzlbr2qygi10eo0o.png" height="250">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/tfmkvfnlzjplyhsiq2um.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/spotify/nxjoizolo5dxjkzrlwja.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085669/spotify/qahzcvew7zwqxviii3q0.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/spotify/wo714hrmjxdbbwhwxnug.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085668/spotify/qi64z7z8qazfyu3vhpup.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/spotify/ekypbzlbr2qygi10eo0o.png" height="250">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/spotify/tfmkvfnlzjplyhsiq2um.png" height="250">
 </p>
 <br/>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581092143/prapyjjxtzkuxv31nbgd.gif" height="320">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085696/sengxslrzmfnfqxrs40i.gif" height="320">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085691/g8pfqwbylauz9wsszzmo.gif" height="320">
-  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581092145/onibeefqcdm0vsrefixh.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581092143/spotify/prapyjjxtzkuxv31nbgd.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085696/spotify/sengxslrzmfnfqxrs40i.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085691/spotify/g8pfqwbylauz9wsszzmo.gif" height="320">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581092145/spotify/onibeefqcdm0vsrefixh.gif" height="320">
+</p>
+
+### :new: New feat - Animated music player
+<p align="center">
+  <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581613970/spotify/klqpipcbtyrrjymuamom.gif" height="320">
 </p>
 
 ## :information_source: How to run the application locally
@@ -82,7 +88,7 @@ Expo will open a page in your browser, scan the QRcode on the page and wait for 
 
 ### TODO
 
-- [ ] Animated music player
+- [x] Animated music player
 - [ ] Profile Page
 
 ## :page_facing_up: License
