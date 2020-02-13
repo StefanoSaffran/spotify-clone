@@ -1,5 +1,11 @@
 import React from 'react';
-import { AntDesign, Feather as Icon } from '@expo/vector-icons';
+import {
+  Ionicons,
+  EvilIcons,
+  AntDesign,
+  MaterialIcons,
+  Feather as Icon,
+} from '@expo/vector-icons';
 
 import {
   Container,
@@ -14,7 +20,10 @@ import {
   PodAuthor,
   Metadata,
   Slider,
+  Circle,
   Controls,
+  Speed,
+  Footer,
 } from './styles';
 
 export default function FullPlayer({ onPress }) {
@@ -26,7 +35,7 @@ export default function FullPlayer({ onPress }) {
             <Button {...{ onPress }}>
               <Icon name="chevron-down" color="white" size={24} />
             </Button>
-            <Name>FalaDev</Name>
+            <Name>Podcast FalaDev</Name>
             <Button {...{ onPress }}>
               <Icon name="more-horizontal" color="white" size={24} />
             </Button>
@@ -38,14 +47,32 @@ export default function FullPlayer({ onPress }) {
               <PodAuthor>Podcast FalaDev</PodAuthor>
             </PlayerView>
           </Metadata>
-          <Slider />
+          <Slider>
+            <Circle>●</Circle>
+          </Slider>
           <Controls>
-            <Icon name="shuffle" color="rgba(255, 255, 255, 0.5)" size={24} />
-            <AntDesign name="stepbackward" color="white" size={32} />
-            <AntDesign name="play" color="white" size={48} />
-            <AntDesign name="stepforward" color="white" size={32} />
-            <Icon name="repeat" color="rgba(255, 255, 255, 0.5)" size={24} />
+            <Speed>1x</Speed>
+            <AntDesign
+              name="stepbackward"
+              color="rgba(255, 255, 255, 0.5)"
+              size={28}
+            />
+            <AntDesign name="play" color="white" size={54} />
+            <AntDesign
+              name="stepforward"
+              color="rgba(255, 255, 255, 0.5)"
+              size={28}
+            />
+            <Ionicons
+              name="ios-moon"
+              color="rgba(255, 255, 255, 0.5)"
+              size={24}
+            />
           </Controls>
+          <Footer>
+            <MaterialIcons name="devices-other" color="#ccc" size={24} />
+            <EvilIcons name="share-apple" color="white" size={24} />
+          </Footer>
         </InnerContainer>
       </Background>
     </Container>

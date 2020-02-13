@@ -6,7 +6,7 @@ import Program from '~/components/Program';
 
 import { Container, PlayList } from './styles';
 
-export default function Playlists() {
+export default function Programs() {
   const [programs, setPrograms] = useState([]);
 
   useEffect(() => {

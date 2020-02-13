@@ -3,7 +3,7 @@ import { Feather } from '@expo/vector-icons';
 
 import { Container, Title, SubTitle, Button, ButtonText } from './styles';
 
-export default function Musicas() {
+export default function Downloads() {
   return (
     <Container>
       <Title>Nenhum download por enquanto</Title>

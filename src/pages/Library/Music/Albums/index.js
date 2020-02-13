@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Title } from './styles';
 
-export default function Albuns() {
+export default function Albums() {
   return (
     <Container>
       <Title>Os álbuns que você curtir vão aparecer aqui</Title>
@@ -10,6 +10,6 @@ export default function Albuns() {
   );
 }
 
-Albuns.navigationOptions = {
+Albums.navigationOptions = {
   tabBarLabel: 'Álbuns',
 };

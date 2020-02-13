@@ -16,12 +16,12 @@ import {
 
 import Main from '~/pages/Main';
 import Search from '~/pages/Search';
-import Playlists from '~/pages/Library/Musica/Playlists';
-import Artistas from '~/pages/Library/Musica/Artistas';
-import Albuns from '~/pages/Library/Musica/Albuns';
+import Playlists from '~/pages/Library/Music/Playlists';
+import Artists from '~/pages/Library/Music/Artists';
+import Albums from '~/pages/Library/Music/Albums';
 import Episodios from '~/pages/Library/PodCasts/Episodios';
 import Downloads from '~/pages/Library/PodCasts/Downloads';
-import Programas from '~/pages/Library/PodCasts/Programas';
+import Programs from '~/pages/Library/PodCasts/Programs';
 import Premium from '~/pages/Premium';
 
 const Routes = createAppContainer(
@@ -71,8 +71,8 @@ const Routes = createAppContainer(
                 Musica: createMaterialTopTabNavigator(
                   {
                     Playlists,
-                    Artistas,
-                    Albuns,
+                    Artists,
+                    Albums,
                   },
                   {
                     navigationOptions: {
@@ -103,7 +103,7 @@ const Routes = createAppContainer(
                   {
                     Episodios,
                     Downloads,
-                    Programas,
+                    Programs,
                   },
                   {
                     tabBarOptions: {
@@ -200,6 +200,7 @@ const Routes = createAppContainer(
         style: {
           backgroundColor: '#272829',
           borderTopColor: '#010101',
+          borderTopWidth: 2,
         },
       },
     }
