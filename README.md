@@ -17,7 +17,7 @@ This project was developed with the following technologies:
 -  [Prettier](https://prettier.io/)
 -  [VS Code](https://code.visualstudio.com/)
 
-## :rocket: Images/gifs
+## :iphone: Images/gifs
 
 <p align="center">
   <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581085670/spotify/nxjoizolo5dxjkzrlwja.png" height="250">
