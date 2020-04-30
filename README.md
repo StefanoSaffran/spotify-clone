@@ -2,6 +2,22 @@
     <img src="assets/logo.png" width="300"/>
 </p>
 
+<p align="center">
+<img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/StefanoSaffran/spotify-clone">
+<img alt="Made by Stefano" src="https://img.shields.io/badge/made%20by-StefanoSaffran-%20">
+<img alt="Project top programing language" src="https://img.shields.io/github/languages/top/StefanoSaffran/spotify-clone">
+<img alt="GitHub license" src="https://img.shields.io/github/license/StefanoSaffran/spotify-clone">
+</p>
+
+<p align="center">
+  <a href="#computer-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-Images/gifs">Images/gifs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_facing_up-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#mailbox_with_mail-get-in-touch">Get in touch</a>
+</p>
+
 ## :rocket: Built with
 
 This project was developed with the following technologies:
@@ -41,11 +57,16 @@ This project was developed with the following technologies:
   <img src="https://res.cloudinary.com/stefanosaffran/image/upload/v1581613970/spotify/klqpipcbtyrrjymuamom.gif" height="320">
 </p>
 
-## :information_source: How to run the application locally
-### Requirements
-To run the app, you will need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) v12.13.1 or higher and [Yarn](https://yarnpkg.com/)
+## :information_source: How to run
 
-The Application was develop using Expo. It is a free and open source toolchain built around React Native to facilitate the process of running and testing applications. [Click here](https://expo.io/learn) to get start with Expo.
+### Requirements
+
+To run the application you will need:
+* [Git](https://git-scm.com)
+* [Node](https://nodejs.org/)
+* [Yarn](https://yarnpkg.com/)
+
+The Application was developed using Expo. It is a free and open source toolchain built around React Native to facilitate the process of running and testing applications. [Click here](https://expo.io/learn) to get start with Expo.
 
 Now clone the repository and install the dependencies.
 ```bash
@@ -97,10 +118,18 @@ This project is under the MIT license. See the [LICENSE](https://github.com/Stef
 
 ## :mailbox_with_mail: Get in touch!
 
-[LinkedIn](https://www.linkedin.com/in/stefanosaffran/) | [Website](https://stefanosaffran.com)
+<a href="https://stefanosaffran.com" target="_blank" >
+  <img alt="Website - Stefano Saffran" src="https://img.shields.io/badge/Website--%23F8952D?style=social">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/stefanosaffran/" target="_blank" >
+  <img alt="Linkedin - Stefano Saffran" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:stefanoas@gmail.com" target="_blank" >
+  <img alt="Email - Stefano Saffran" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a>
 
 ---
 
-Made with :coffee: and ♥ by Stefano Saffran.
+Made with :coffee: and ❤️ by Stefano Saffran.
 
 
